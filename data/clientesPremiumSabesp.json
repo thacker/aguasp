@@ -1,0 +1,2060 @@
+[
+  {
+    "id":1,
+    "nome":"MANIKRAFT (ESGOTO)",
+    "agua":null,
+    "esgoto":111.222,
+    "tarifa":1.93
+  },
+  {
+    "id":2,
+    "nome":"AGRO NIPPO PRODUTOS ALIMENTICIOS LTDA",
+    "agua":null,
+    "esgoto":10.333,
+    "tarifa":4.82
+  },
+  {
+    "id":3,
+    "nome":"TINTURARIA PARI LTDA",
+    "agua":null,
+    "esgoto":10.333,
+    "tarifa":4.82
+  },
+  {
+    "id":4,
+    "nome":"VISCOFAN",
+    "agua":60.000,
+    "esgoto":70.000,
+    "tarifa":3.41
+  },
+  {
+    "id":5,
+    "nome":"SOCIEDADE BENEFICENTE ISRAELITA BRASILEIRA HOSPITAL ALBERT EINSTEIN",
+    "agua":21.730,
+    "esgoto":21.730,
+    "tarifa":8.48
+  },
+  {
+    "id":6,
+    "nome":"SPTRANS",
+    "agua":21.451,
+    "esgoto":15.979,
+    "tarifa":8.48
+  },
+  {
+    "id":7,
+    "nome":"SANTA CONSTANCIA TECELAGEM LTDA",
+    "agua":21.089,
+    "esgoto":15.815,
+    "tarifa":3.69
+  },
+  {
+    "id":8,
+    "nome":"OPERADORA DE SHOPPING CENTER ELDORADO S.C.LTDA",
+    "agua":20.560,
+    "esgoto":20.560,
+    "tarifa":6.27
+  },
+  {
+    "id":9,
+    "nome":"COLGATE PALMOLIVE INDUSTRIAL LTDA",
+    "agua":18.430,
+    "esgoto":18.430,
+    "tarifa":10.2604
+  },
+  {
+    "id":10,
+    "nome":"AVON",
+    "agua":13.996,
+    "esgoto":13.996,
+    "tarifa":5.95
+  },
+  {
+    "id":11,
+    "nome":"CIA. PAULISTA DE TRENS METROPOLITANOS CPTM",
+    "agua":12.025,
+    "esgoto":12.025,
+    "tarifa":10.96
+  },
+  {
+    "id":12,
+    "nome":"CENUHILTON",
+    "agua":11.722,
+    "esgoto":11.722,
+    "tarifa":6.76
+  },
+  {
+    "id":13,
+    "nome":"ELI LILLY",
+    "agua":11.519,
+    "esgoto":1.519,
+    "tarifa":10.32
+  },
+  {
+    "id":14,
+    "nome":"COND. WTORRE JK",
+    "agua":11.046,
+    "esgoto":11.046,
+    "tarifa":9.08
+  },
+  {
+    "id":15,
+    "nome":"COND. COM.SHOPPING PATIO HIGIENOPOLIS",
+    "agua":10.333,
+    "esgoto":10.333,
+    "tarifa":6.955
+  },
+  {
+    "id":16,
+    "nome":"SUB. CONDOMINIO DO SHOPPING VILLA-LOBOS",
+    "agua":9.773,
+    "esgoto":9.773,
+    "tarifa":6.955
+  },
+  {
+    "id":17,
+    "nome":"PROCTER E GAMBLE DO BRASIL S.A.",
+    "agua":9.466,
+    "esgoto":null,
+    "tarifa":9.69
+  },
+  {
+    "id":18,
+    "nome":"BROOKFIELD BRASIL SHOPPING CENTER ADM. LTDA",
+    "agua":9.224,
+    "esgoto":9.224,
+    "tarifa":7.855
+  },
+  {
+    "id":19,
+    "nome":"ASSOCIAÇÃO BRASILEIRA A.HEBRAICA DE SÃO PAULO",
+    "agua":8.992,
+    "esgoto":8.992,
+    "tarifa":9.08
+  },
+  {
+    "id":20,
+    "nome":"ESPORTE CLUBE PINHEIROS",
+    "agua":8.435,
+    "esgoto":8.435,
+    "tarifa":10.96
+  },
+  {
+    "id":21,
+    "nome":"GR S.A.",
+    "agua":8.435,
+    "esgoto":8.435,
+    "tarifa":6.265
+  },
+  {
+    "id":22,
+    "nome":"GREEN LINE SISTEMAS DE SAUDE LTDA",
+    "agua":8.373,
+    "esgoto":8.373,
+    "tarifa":9.69
+  },
+  {
+    "id":23,
+    "nome":"BAY HILL SP ADM LTDA",
+    "agua":7.994,
+    "esgoto":7.994,
+    "tarifa":8.445
+  },
+  {
+    "id":24,
+    "nome":"COND. WEST PLAZA SHOPPING CENTER I",
+    "agua":7.854,
+    "esgoto":7.854,
+    "tarifa":7.545
+  },
+  {
+    "id":25,
+    "nome":"COND. PATIO VICTOR MALZONI",
+    "agua":7.575,
+    "esgoto":7.575,
+    "tarifa":9.69
+  },
+  {
+    "id":26,
+    "nome":"BRADESCO",
+    "agua":6.925,
+    "esgoto":6.925,
+    "tarifa":6.575
+  },
+  {
+    "id":27,
+    "nome":"ASSOCIAÇÃO E-BUSINESS PARK",
+    "agua":6.749,
+    "esgoto":6.749,
+    "tarifa":9.69
+  },
+  {
+    "id":28,
+    "nome":"RECKITT BENCKISER (BRASIL) LTDA",
+    "agua":6.616,
+    "esgoto":6.616,
+    "tarifa":9.69
+  },
+  {
+    "id":29,
+    "nome":"DOU-TEX S/A INDUSTRIA TEXTTIL",
+    "agua":6.100,
+    "esgoto":10.000,
+    "tarifa":7.255
+  },
+  {
+    "id":30,
+    "nome":"MORUMBI CORPORATE",
+    "agua":5.448,
+    "esgoto":5.448,
+    "tarifa":9.69
+  },
+  {
+    "id":31,
+    "nome":"CONSORCIO CONDOMINIO SHOPPING METRO TUCURUVI",
+    "agua":5.233,
+    "esgoto":5.233,
+    "tarifa":9.69
+  },
+  {
+    "id":32,
+    "nome":"SPORT CLUB CORINTHIANS",
+    "agua":5.233,
+    "esgoto":5.233,
+    "tarifa":9.69
+  },
+  {
+    "id":33,
+    "nome":"SHOPPING PENHA",
+    "agua":4.950,
+    "esgoto":4.950,
+    "tarifa":9.69
+  },
+  {
+    "id":34,
+    "nome":"HOSP. NOSSA SENHORA DE LOURDES",
+    "agua":4.742,
+    "esgoto":4.742,
+    "tarifa":9.69
+  },
+  {
+    "id":35,
+    "nome":"NESTLE",
+    "agua":4.722,
+    "esgoto":4.722,
+    "tarifa":9.69
+  },
+  {
+    "id":36,
+    "nome":"TELEPERFORMANCE CRM S.A.",
+    "agua":4.475,
+    "esgoto":4.475,
+    "tarifa":9.69
+  },
+  {
+    "id":37,
+    "nome":"AMICO ASSISTENCIA MEDICA A INDUSTRIA COMERCIO LTDA",
+    "agua":4.439,
+    "esgoto":4.439,
+    "tarifa":9.69
+  },
+  {
+    "id":38,
+    "nome":"P2 ADMINISTRAÇÃO EM COMPLEXOS IMOBILIÁRIOS LTDA",
+    "agua":4.289,
+    "esgoto":4.289,
+    "tarifa":9.69
+  },
+  {
+    "id":39,
+    "nome":"HOSPITAL GERAL PEDREIRA (Cruzada Bandeirantes São Camilo)",
+    "agua":4.249,
+    "esgoto":4.249,
+    "tarifa":9.69
+  },
+  {
+    "id":40,
+    "nome":"ASSOC. EDUCACIONAL NOVE DE JULHO",
+    "agua":3.754,
+    "esgoto":3.754,
+    "tarifa":9.69
+  },
+  {
+    "id":41,
+    "nome":"CENTRO DE ESTUDOS E PESQUISAS DR. JOAO AMORIM (HOSP. M'BOI MIRIM)",
+    "agua":3.671,
+    "esgoto":3.671,
+    "tarifa":9.69
+  },
+  {
+    "id":42,
+    "nome":"COND. TOP CENTER",
+    "agua":3.662,
+    "esgoto":3.662,
+    "tarifa":9.69
+  },
+  {
+    "id":43,
+    "nome":"COND. VILLA LOBOS OFFICE PARK",
+    "agua":3.626,
+    "esgoto":3.626,
+    "tarifa":9.69
+  },
+  {
+    "id":44,
+    "nome":"TITAN PNEUS DO BRASIL LTDA",
+    "agua":3.600,
+    "esgoto":3.600,
+    "tarifa":9.69
+  },
+  {
+    "id":45,
+    "nome":"CLARIANT",
+    "agua":3.539,
+    "esgoto":3.539,
+    "tarifa":9.08
+  },
+  {
+    "id":46,
+    "nome":"ASSOC. EDUCACIONAL NOVE DE JULHO",
+    "agua":3.509,
+    "esgoto":3.509,
+    "tarifa":10.32
+  },
+  {
+    "id":47,
+    "nome":"COND. ED. NEW YORK E LOS ANGELES",
+    "agua":3.457,
+    "esgoto":3.457,
+    "tarifa":9.69
+  },
+  {
+    "id":48,
+    "nome":"VIA SUL TRANSPORTES URBANOS LTDA",
+    "agua":3.456,
+    "esgoto":2.090,
+    "tarifa":9.69
+  },
+  {
+    "id":49,
+    "nome":"BIOSINTETICA",
+    "agua":3.390,
+    "esgoto":3.390,
+    "tarifa":9.69
+  },
+  {
+    "id":50,
+    "nome":"COND. ED. CONVENTION CENTER BERRINI",
+    "agua":3.374,
+    "esgoto":3.374,
+    "tarifa":9.69
+  },
+  {
+    "id":51,
+    "nome":"LARGO XIII EMPREENDIMENTOS",
+    "agua":3.359,
+    "esgoto":3.359,
+    "tarifa":9.69
+  },
+  {
+    "id":52,
+    "nome":"JAGUARÉ BUSINESS PARK",
+    "agua":3.298,
+    "esgoto":3.298,
+    "tarifa":10.41675
+  },
+  {
+    "id":53,
+    "nome":"SOCIEDADE ESPORTIVA PALMEIRAS",
+    "agua":3.285,
+    "esgoto":3.285,
+    "tarifa":9.69
+  },
+  {
+    "id":54,
+    "nome":"ASSOC. EDUCACIONAL NOVE DE JULHO",
+    "agua":3.227,
+    "esgoto":3.227,
+    "tarifa":10.32
+  },
+  {
+    "id":55,
+    "nome":"COND. ED. WILSTON CHURCHILL",
+    "agua":3.154,
+    "esgoto":3.154,
+    "tarifa":9.69
+  },
+  {
+    "id":56,
+    "nome":"COND. ED. CONDE ANDREA MATARAZZO",
+    "agua":3.072,
+    "esgoto":3.072,
+    "tarifa":9.69
+  },
+  {
+    "id":57,
+    "nome":"DORMER TOOLS E SANDVIK",
+    "agua":3.020,
+    "esgoto":3.020,
+    "tarifa":9.69
+  },
+  {
+    "id":58,
+    "nome":"PREVENT SENIOR PRIVATE OP.DE SAUDE LTDA",
+    "agua":3.004,
+    "esgoto":3.004,
+    "tarifa":9.69
+  },
+  {
+    "id":59,
+    "nome":"COND. CENTRO ADMINISTRATIVO STO AMARO",
+    "agua":3.004,
+    "esgoto":3.004,
+    "tarifa":10.32
+  },
+  {
+    "id":60,
+    "nome":"ASSOC. HOSP. FILHAS DE NSRA. DO MONTE CALVARIO",
+    "agua":2.982,
+    "esgoto":2.982,
+    "tarifa":10.32
+  },
+  {
+    "id":61,
+    "nome":"COND. ED. AV. BRIGADEIRO FARIA LIMA",
+    "agua":2.954,
+    "esgoto":2.340,
+    "tarifa":10.32
+  },
+  {
+    "id":62,
+    "nome":"ESHO EMPRESA DE SERVIÇOS HOSPITALARES LTDA",
+    "agua":2.928,
+    "esgoto":2.928,
+    "tarifa":10.32
+  },
+  {
+    "id":63,
+    "nome":"CONDOMINIO CIDADE JARDIM CORPORATE CENTER",
+    "agua":2.917,
+    "esgoto":2.917,
+    "tarifa":10.32
+  },
+  {
+    "id":64,
+    "nome":"COND. ED. PEDROSO DE MORAES 1217",
+    "agua":2.905,
+    "esgoto":2.905,
+    "tarifa":10.32
+  },
+  {
+    "id":65,
+    "nome":"CAMPO LIMPO EMPR. E PARTICIPAÇÕES LTDA",
+    "agua":2.889,
+    "esgoto":2.889,
+    "tarifa":10.214229
+  },
+  {
+    "id":66,
+    "nome":"DIVERSEY",
+    "agua":2.847,
+    "esgoto":2.847,
+    "tarifa":9.69
+  },
+  {
+    "id":67,
+    "nome":"ASSOC. FUNDO DE INCENTIVO A PESQUISA - AFIP",
+    "agua":2.834,
+    "esgoto":2.834,
+    "tarifa":10.32
+  },
+  {
+    "id":68,
+    "nome":"ED. NEW CENTURY",
+    "agua":2.808,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":69,
+    "nome":"COND. HIGIENOPOLIS MEDICAL CENTER",
+    "agua":2.745,
+    "esgoto":2.745,
+    "tarifa":10.32
+  },
+  {
+    "id":70,
+    "nome":"COND. ED. NOVA SÃO PAULO",
+    "agua":2.658,
+    "esgoto":2.658,
+    "tarifa":10.32
+  },
+  {
+    "id":71,
+    "nome":"COND. INFINITY MASTER",
+    "agua":2.652,
+    "esgoto":2.652,
+    "tarifa":10.96
+  },
+  {
+    "id":72,
+    "nome":"CARLISA S. A. EMPREEND. E PARTICIPAÇOES",
+    "agua":2.615,
+    "esgoto":2.615,
+    "tarifa":10.32
+  },
+  {
+    "id":73,
+    "nome":"COND. ED. CAESAR TOWERS PAULISTA",
+    "agua":2.570,
+    "esgoto":2.570,
+    "tarifa":10.32
+  },
+  {
+    "id":74,
+    "nome":"ED. PAULISTA BUSINESS CLASS",
+    "agua":2.547,
+    "esgoto":2.547,
+    "tarifa":10.32
+  },
+  {
+    "id":75,
+    "nome":"IGREJA UNIVERSAL",
+    "agua":2.541,
+    "esgoto":2.541,
+    "tarifa":9.69
+  },
+  {
+    "id":76,
+    "nome":"BMEF BOVESPA S.A-BOLSA DE VALORES MERC FUTUROS",
+    "agua":2.422,
+    "esgoto":2.422,
+    "tarifa":10.32
+  },
+  {
+    "id":77,
+    "nome":"NITROQUIMICA",
+    "agua":2.363,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":78,
+    "nome":"FRESH START BAKERIES",
+    "agua":2.287,
+    "esgoto":2.287,
+    "tarifa":10.32
+  },
+  {
+    "id":79,
+    "nome":"ASSA ABLOY BRASIL SIST. DE SEGURANÇA LTDA (ANTIGAYALE LA FONTE)",
+    "agua":2.252,
+    "esgoto":2.252,
+    "tarifa":10.32
+  },
+  {
+    "id":80,
+    "nome":"INST. ED. PROFº PASQUALE CASCINO - UNITALO",
+    "agua":2.196,
+    "esgoto":2.196,
+    "tarifa":10.32
+  },
+  {
+    "id":81,
+    "nome":"COND. ED. INTERNATIONAL PLAZA II",
+    "agua":2.119,
+    "esgoto":2.119,
+    "tarifa":10.32
+  },
+  {
+    "id":82,
+    "nome":"COND ED. BOLSA DE IMOVEIS DO EST. DE SÃO PAULO",
+    "agua":2.117,
+    "esgoto":2.117,
+    "tarifa":10.32
+  },
+  {
+    "id":83,
+    "nome":"CRISTALIA PROD QUIMICOS E FARMACEUTICOS LTDA",
+    "agua":2.098,
+    "esgoto":2.098,
+    "tarifa":10.61055
+  },
+  {
+    "id":84,
+    "nome":"COND. ED. MEMORIAL OFFICE BUILDING",
+    "agua":2.095,
+    "esgoto":2.095,
+    "tarifa":10.32
+  },
+  {
+    "id":85,
+    "nome":"APSEN FARMACEUTICA",
+    "agua":2.061,
+    "esgoto":2.061,
+    "tarifa":10.32
+  },
+  {
+    "id":86,
+    "nome":"COND. ED. MEDICAL CENTER PAULISTA",
+    "agua":2.056,
+    "esgoto":2.056,
+    "tarifa":10.32
+  },
+  {
+    "id":87,
+    "nome":"COND. CORPORATE PARK",
+    "agua":2.018,
+    "esgoto":2.018,
+    "tarifa":10.32
+  },
+  {
+    "id":88,
+    "nome":"MANIKRAFT (ÁGUA)",
+    "agua":2.011,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":89,
+    "nome":"GLOBO",
+    "agua":1.972,
+    "esgoto":1.972,
+    "tarifa":10.32
+  },
+  {
+    "id":90,
+    "nome":"ASSOCIAÇÃO EDIFICIO ODEBRECHT SÃO PAULO",
+    "agua":1.956,
+    "esgoto":1.956,
+    "tarifa":10.32
+  },
+  {
+    "id":91,
+    "nome":"RADIO E TELEVISAO RECORD S.A.",
+    "agua":1.955,
+    "esgoto":1.955,
+    "tarifa":10.32
+  },
+  {
+    "id":92,
+    "nome":"SERASA S.A.",
+    "agua":1.951,
+    "esgoto":1.951,
+    "tarifa":10.32
+  },
+  {
+    "id":93,
+    "nome":"IGREJA PENTECOSTAL DEUS E AMOR",
+    "agua":1.942,
+    "esgoto":1.942,
+    "tarifa":10.32
+  },
+  {
+    "id":94,
+    "nome":"SERPRO",
+    "agua":1.914,
+    "esgoto":1.914,
+    "tarifa":10.32
+  },
+  {
+    "id":95,
+    "nome":"ARCELLORMITTAL",
+    "agua":1.906,
+    "esgoto":1.906,
+    "tarifa":10.32
+  },
+  {
+    "id":96,
+    "nome":"LEROY MERLIN",
+    "agua":1.834,
+    "esgoto":1.834,
+    "tarifa":10.32
+  },
+  {
+    "id":97,
+    "nome":"TAM LINHAS AEREAS",
+    "agua":1.833,
+    "esgoto":1.833,
+    "tarifa":10.32
+  },
+  {
+    "id":98,
+    "nome":"EDIFICIO FARIA LIMA SQUARE",
+    "agua":1.818,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":99,
+    "nome":"ERICSSON TELECOMUNICAÇÕES S/A",
+    "agua":1.813,
+    "esgoto":null,
+    "tarifa":9.69
+  },
+  {
+    "id":100,
+    "nome":"COND. ED. COMEND. YERCHANIK KISSAJIKIAN",
+    "agua":1.810,
+    "esgoto":1.810,
+    "tarifa":10.32
+  },
+  {
+    "id":101,
+    "nome":"COND. ED. HENRIQUE SCHAUMANN",
+    "agua":1.803,
+    "esgoto":1.803,
+    "tarifa":10.32
+  },
+  {
+    "id":102,
+    "nome":"COND.MILLENIUM BUSINESS CENTER",
+    "agua":1.785,
+    "esgoto":1.785,
+    "tarifa":10.32
+  },
+  {
+    "id":103,
+    "nome":"ORION PARTICIPAÇOES E ADM. LTDA",
+    "agua":1.764,
+    "esgoto":1.764,
+    "tarifa":10.32
+  },
+  {
+    "id":104,
+    "nome":"IMPRENSA OFICIAL DO ESTADO S.A. -IMESP",
+    "agua":1.754,
+    "esgoto":1.754,
+    "tarifa":10.32
+  },
+  {
+    "id":105,
+    "nome":"COND. ED. ANDRAUS",
+    "agua":1.743,
+    "esgoto":1.743,
+    "tarifa":10.32
+  },
+  {
+    "id":106,
+    "nome":"BERGAMAIS SUPERMERCADOS LTDA",
+    "agua":1.697,
+    "esgoto":1.697,
+    "tarifa":10.32
+  },
+  {
+    "id":107,
+    "nome":"HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+    "agua":1.689,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":108,
+    "nome":"BRAZILIAN FINANCIAL CENTER",
+    "agua":1.678,
+    "esgoto":1.678,
+    "tarifa":9.69
+  },
+  {
+    "id":109,
+    "nome":"COND. ED. BIRMANN 11 & 12",
+    "agua":1.664,
+    "esgoto":1.664,
+    "tarifa":10.32
+  },
+  {
+    "id":110,
+    "nome":"BANCO SAFRA S.A.",
+    "agua":1.650,
+    "esgoto":1.650,
+    "tarifa":10.32
+  },
+  {
+    "id":111,
+    "nome":"EDIFICIO SALIBA",
+    "agua":1.628,
+    "esgoto":1.628,
+    "tarifa":10.32
+  },
+  {
+    "id":112,
+    "nome":"COND. PRIME MEDICAL CENTER",
+    "agua":1.628,
+    "esgoto":1.628,
+    "tarifa":10.32
+  },
+  {
+    "id":113,
+    "nome":"COND. ED. SPAZIO JK",
+    "agua":1.602,
+    "esgoto":1.602,
+    "tarifa":10.32
+  },
+  {
+    "id":114,
+    "nome":"ED. INTERNATIONAL PLAZA",
+    "agua":1600,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":115,
+    "nome":"PRODESP",
+    "agua":1.586,
+    "esgoto":1.586,
+    "tarifa":9.69
+  },
+  {
+    "id":116,
+    "nome":"SUPERMERCADO OURINHOS LTDA",
+    "agua":1.551,
+    "esgoto":1.551,
+    "tarifa":10.32
+  },
+  {
+    "id":117,
+    "nome":"MUSEU DE ARTE DE SÃO PAULO ASSIS CHATEUBRIAND",
+    "agua":1.538,
+    "esgoto":1538,
+    "tarifa":10.32
+  },
+  {
+    "id":118,
+    "nome":"COND. ED. WILSON MENDES CALDEIRA",
+    "agua":1.533,
+    "esgoto":1.533,
+    "tarifa":10.32
+  },
+  {
+    "id":119,
+    "nome":"COND. ED. ICON FARIA LIMA",
+    "agua":1.515,
+    "esgoto":1.515,
+    "tarifa":10.32
+  },
+  {
+    "id":120,
+    "nome":"SÃO PAULO GOLF CLUB",
+    "agua":1.512,
+    "esgoto":1.512,
+    "tarifa":1032
+  },
+  {
+    "id":121,
+    "nome":"IBEP GRAFICA LTDA",
+    "agua":1.505,
+    "esgoto":1.505,
+    "tarifa":11.9196
+  },
+  {
+    "id":122,
+    "nome":"EDIFICIO GALERIA SÃO BENTO",
+    "agua":1.504,
+    "esgoto":1.504,
+    "tarifa":10.32
+  },
+  {
+    "id":123,
+    "nome":"ED. CLEMENTE FARIA",
+    "agua":1.493,
+    "esgoto":1.493,
+    "tarifa":10.32
+  },
+  {
+    "id":124,
+    "nome":"BIRMANN20",
+    "agua":1.489,
+    "esgoto":1.489,
+    "tarifa":10.32
+  },
+  {
+    "id":125,
+    "nome":"CONDOMINIO E EDIFICIO KYOEI IBIRAPUERA BL.I",
+    "agua":1.488,
+    "esgoto":1.488,
+    "tarifa":10.32
+  },
+  {
+    "id":126,
+    "nome":"ASSOCIAÇÃO BRASILEIRA DE IGREJA DE JESUS CRISTO DOS ULTIMOS DIAS",
+    "agua":1.474,
+    "esgoto":1.474,
+    "tarifa":10.32
+  },
+  {
+    "id":127,
+    "nome":"ASSOCIAÇÃO BENEFICIENTE PROVIDENCIA AZUL (COLEGIO EMILIE DE VILLENEUVE)",
+    "agua":1.473,
+    "esgoto":1.473,
+    "tarifa":10.32
+  },
+  {
+    "id":128,
+    "nome":"FESTO BRASIL LTDA",
+    "agua":1.438,
+    "esgoto":1.438,
+    "tarifa":10.32
+  },
+  {
+    "id":129,
+    "nome":"BANCO SAFRA S.A.",
+    "agua":1.430,
+    "esgoto":1.430,
+    "tarifa":10.32
+  },
+  {
+    "id":130,
+    "nome":"COND. ED. JARDINS RESIDENCE SERVICE",
+    "agua":1.417,
+    "esgoto":1.417,
+    "tarifa":10.32
+  },
+  {
+    "id":131,
+    "nome":"COND. PLAZA IGUATEMI",
+    "agua":1.409,
+    "esgoto":1.409,
+    "tarifa":10.32
+  },
+  {
+    "id":132,
+    "nome":"EMPAX EMBALAGENS",
+    "agua":1.390,
+    "esgoto":1.390,
+    "tarifa":10.32
+  },
+  {
+    "id":133,
+    "nome":"LIGA DAS SENHORAS CATOLICAS - LAR DE SANTANA",
+    "agua":1.376,
+    "esgoto":1.376,
+    "tarifa":10.32
+  },
+  {
+    "id":134,
+    "nome":"INDUSTRIA GRAFICA FORONI LTDA",
+    "agua":1.369,
+    "esgoto":1.369,
+    "tarifa":10.32
+  },
+  {
+    "id":135,
+    "nome":"ASSOC. ESCOLA SUPERIOR DE PROP. E MARKETING",
+    "agua":1.362,
+    "esgoto":1.362,
+    "tarifa":10.32
+  },
+  {
+    "id":136,
+    "nome":"ALSTOM BRASIL ENERGIA E TRANSPORTE LTDA",
+    "agua":1.345,
+    "esgoto":1.345,
+    "tarifa":10.32
+  },
+  {
+    "id":137,
+    "nome":"KEIPER TECN. DE ASSENTOS AUTOMOTIVOS LTDA.",
+    "agua":1.276,
+    "esgoto":1.276,
+    "tarifa":10.32
+  },
+  {
+    "id":138,
+    "nome":"ETNA",
+    "agua":1.268,
+    "esgoto":1.268,
+    "tarifa":10.32
+  },
+  {
+    "id":139,
+    "nome":"COND. ED. THE EMPIRE STATE FARIA LIMA HOTEL & COM.",
+    "agua":1.251,
+    "esgoto":1.251,
+    "tarifa":10.32
+  },
+  {
+    "id":140,
+    "nome":"AMICO ASSISTENCIA MEDICA A INDUSTRIA COMERCIO LTDA",
+    "agua":1.245,
+    "esgoto":1.245,
+    "tarifa":10.32
+  },
+  {
+    "id":141,
+    "nome":"COND. CONJ. CIDADE LUZ",
+    "agua":1.234,
+    "esgoto":1.234,
+    "tarifa":10.32
+  },
+  {
+    "id":142,
+    "nome":"HOTEL MARCO INTERNACIONAL S.A.",
+    "agua":1.218,
+    "esgoto":1.218,
+    "tarifa":10.32
+  },
+  {
+    "id":143,
+    "nome":"COND. ED. STA. CATARINA",
+    "agua":1.217,
+    "esgoto":1.217,
+    "tarifa":10.32
+  },
+  {
+    "id":144,
+    "nome":"L.S.M. HOTEIS E TURISMO LTDA",
+    "agua":1.203,
+    "esgoto":1.203,
+    "tarifa":10.32
+  },
+  {
+    "id":145,
+    "nome":"COND. ED. RESIDENCE PAULISTA LIFE",
+    "agua":1.201,
+    "esgoto":1.201,
+    "tarifa":10.32
+  },
+  {
+    "id":146,
+    "nome":"MACLEMON LTDA",
+    "agua":1.177,
+    "esgoto":1.177,
+    "tarifa":10.32
+  },
+  {
+    "id":147,
+    "nome":"TOP CAU IND. E COM. DE CHOCOLATES LTDA",
+    "agua":1.165,
+    "esgoto":1.165,
+    "tarifa":10.96
+  },
+  {
+    "id":148,
+    "nome":"COND. LEX OFFICES EXECUTIVE TOWERS",
+    "agua":1.147,
+    "esgoto":1.147,
+    "tarifa":10.32
+  },
+  {
+    "id":149,
+    "nome":"COND. 360JK",
+    "agua":1.144,
+    "esgoto":1.144,
+    "tarifa":10.96
+  },
+  {
+    "id":150,
+    "nome":"CONDOMINIO EDIFICIO MYKONOS",
+    "agua":1.141,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":151,
+    "nome":"COND. ED. PARQUE AUGUSTA",
+    "agua":1.137,
+    "esgoto":1.137,
+    "tarifa":10.96
+  },
+  {
+    "id":152,
+    "nome":"ALCATEL LUCENT BRASIL S.A.",
+    "agua":1.119,
+    "esgoto":1.119,
+    "tarifa":10.32
+  },
+  {
+    "id":153,
+    "nome":"MONTECCHIO DO BRASIL EMPREEND. IMOBILIARIOS LTDA",
+    "agua":1.111,
+    "esgoto":1.111,
+    "tarifa":10.32
+  },
+  {
+    "id":154,
+    "nome":"NEFROLESTE ITAQUERA",
+    "agua":1.108,
+    "esgoto":1.108,
+    "tarifa":10.32
+  },
+  {
+    "id":155,
+    "nome":"ED. SPAZIO FARIA LIMA",
+    "agua":1.097,
+    "esgoto":null,
+    "tarifa":10.96
+  },
+  {
+    "id":156,
+    "nome":"IOB INFORMAÇÕES OBJETIVAS PUBLICAÇÕES JURIDICAS LTDA",
+    "agua":1.069,
+    "esgoto":1.069,
+    "tarifa":10.96
+  },
+  {
+    "id":157,
+    "nome":"ITW",
+    "agua":1.055,
+    "esgoto":null,
+    "tarifa":10.96
+  },
+  {
+    "id":158,
+    "nome":"CAMIL ALIMENTOS S.A.",
+    "agua":1.027,
+    "esgoto":1.027,
+    "tarifa":10.32
+  },
+  {
+    "id":159,
+    "nome":"CONDOMINIO E EDIFICIO PASSARELLI",
+    "agua":1.026,
+    "esgoto":1.026,
+    "tarifa":10.32
+  },
+  {
+    "id":160,
+    "nome":"SITEL DO BRASIL LTDA",
+    "agua":1.025,
+    "esgoto":1.025,
+    "tarifa":10.32
+  },
+  {
+    "id":161,
+    "nome":"COLEGIO ALBERT SABIN S/C LTDA",
+    "agua":1.023,
+    "esgoto":1.023,
+    "tarifa":10.32
+  },
+  {
+    "id":162,
+    "nome":"FUNDAÇÃO JOSE LUIZ EGYDIO SETUBAL (HOSPITAL SABARÁ)",
+    "agua":1.006,
+    "esgoto":2.006,
+    "tarifa":10.32
+  },
+  {
+    "id":163,
+    "nome":"HOSPITAL AVICCENA S.A.",
+    "agua":1.005,
+    "esgoto":1.005,
+    "tarifa":10.32
+  },
+  {
+    "id":164,
+    "nome":"CONDOMINIO HOTEL VILLA LOBOS",
+    "agua":1.003,
+    "esgoto":1.003,
+    "tarifa":10.32
+  },
+  {
+    "id":165,
+    "nome":"CONCESSIONARIA DA LINHA 4 DO METRO",
+    "agua":1.001,
+    "esgoto":1.001,
+    "tarifa":10.32
+  },
+  {
+    "id":166,
+    "nome":"MOTO HONDA",
+    "agua":996,
+    "esgoto":996,
+    "tarifa":10.96
+  },
+  {
+    "id":167,
+    "nome":"VERTICAL EMPREENDIMENTOS",
+    "agua":979,
+    "esgoto":979,
+    "tarifa":10.32
+  },
+  {
+    "id":168,
+    "nome":"CONJUNTO COMERCIAL PARAISO",
+    "agua":978,
+    "esgoto":978,
+    "tarifa":10.96
+  },
+  {
+    "id":169,
+    "nome":"COND. ED. DENVER E AUSTIN",
+    "agua":977,
+    "esgoto":977,
+    "tarifa":10.32
+  },
+  {
+    "id":170,
+    "nome":"COND. ED. ITAIM CENTER",
+    "agua":975,
+    "esgoto":975,
+    "tarifa":10.32
+  },
+  {
+    "id":171,
+    "nome":"FUNDAÇÃO BIENAL DE SÃO PAULO",
+    "agua":968,
+    "esgoto":968,
+    "tarifa":10.96
+  },
+  {
+    "id":172,
+    "nome":"COND. CAMPO BELO MEDICAL CENTER",
+    "agua":955,
+    "esgoto":955,
+    "tarifa":10.96
+  },
+  {
+    "id":173,
+    "nome":"ED. ATRIUM VI",
+    "agua":949,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":174,
+    "nome":"COND. ED. CENTRO EMPRESARIAL IUDICE",
+    "agua":946,
+    "esgoto":946,
+    "tarifa":10.96
+  },
+  {
+    "id":175,
+    "nome":"VOITH PAPER MAQUINAS E EQUIPAMENTOS LTDA",
+    "agua":939,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":176,
+    "nome":"EDITORA MODERNA LTDA",
+    "agua":929,
+    "esgoto":929,
+    "tarifa":10.96
+  },
+  {
+    "id":177,
+    "nome":"ORBITALL SEVIÇOS E PROCESSAMENTO DE MEIOS DE PAGAMENTO LTDA.",
+    "agua":928,
+    "esgoto":928,
+    "tarifa":10.96
+  },
+  {
+    "id":178,
+    "nome":"COND. ED. PALACIO QUINTA AVENIDA",
+    "agua":911,
+    "esgoto":911,
+    "tarifa":10.96
+  },
+  {
+    "id":179,
+    "nome":"TORRE 2000 ED. JULIO DE A. PRADO PENTEADO",
+    "agua":890,
+    "esgoto":890,
+    "tarifa":10.96
+  },
+  {
+    "id":180,
+    "nome":"ED. BOLSA DE MERCADORIAS DE SÃO PAULO",
+    "agua":888,
+    "esgoto":888,
+    "tarifa":10.96
+  },
+  {
+    "id":181,
+    "nome":"YASUDA SEGUROS S.A.",
+    "agua":886,
+    "esgoto":866,
+    "tarifa":10.96
+  },
+  {
+    "id":182,
+    "nome":"COND. ED. HYDE PARK",
+    "agua":882,
+    "esgoto":882,
+    "tarifa":10.96
+  },
+  {
+    "id":183,
+    "nome":"POP GELO IND. COM. LTDA-ME",
+    "agua":882,
+    "esgoto":null,
+    "tarifa":10.96
+  },
+  {
+    "id":184,
+    "nome":"EDIFICIO PANTHEON",
+    "agua":882,
+    "esgoto":882,
+    "tarifa":10.96
+  },
+  {
+    "id":185,
+    "nome":"COND. ED. PE. JOAO MANOEL",
+    "agua":872,
+    "esgoto":872,
+    "tarifa":10.96
+  },
+  {
+    "id":186,
+    "nome":"M. CASSAB",
+    "agua":849,
+    "esgoto":849,
+    "tarifa":10.32
+  },
+  {
+    "id":187,
+    "nome":"EMPRESA DE TRANSPORTES ATLAS LTDA.",
+    "agua":844,
+    "esgoto":844,
+    "tarifa":10.32
+  },
+  {
+    "id":188,
+    "nome":"DAMASIO EDUCACIONAL S.A.",
+    "agua":828,
+    "esgoto":null,
+    "tarifa":10.32
+  },
+  {
+    "id":189,
+    "nome":"COND. ED. CRYSTAL TOWER OFFICE",
+    "agua":821,
+    "esgoto":821,
+    "tarifa":10.96
+  },
+  {
+    "id":190,
+    "nome":"COND. ED. VERBO DIVINO",
+    "agua":818,
+    "esgoto":679,
+    "tarifa":10.32
+  },
+  {
+    "id":191,
+    "nome":"COND. ED. LA CONCORDE JARDIM EUROPA",
+    "agua":813,
+    "esgoto":813,
+    "tarifa":10.96
+  },
+  {
+    "id":192,
+    "nome":"COND. ED. ERIKA",
+    "agua":812,
+    "esgoto":812,
+    "tarifa":10.96
+  },
+  {
+    "id":193,
+    "nome":"COND. ED. FIRST OFFICE FLAT",
+    "agua":808,
+    "esgoto":808,
+    "tarifa":10.96
+  },
+  {
+    "id":194,
+    "nome":"CONDOMINIO EDIFICIO R MONTEIRO",
+    "agua":805,
+    "esgoto":805,
+    "tarifa":10.96
+  },
+  {
+    "id":195,
+    "nome":"COND. ED. JUCELINO PLAZA",
+    "agua":803,
+    "esgoto":803,
+    "tarifa":10.96
+  },
+  {
+    "id":196,
+    "nome":"COND. ED. JK FINANCIAL CENTER",
+    "agua":796,
+    "esgoto":796,
+    "tarifa":10.96
+  },
+  {
+    "id":197,
+    "nome":"TOP TOWERS OFFICES",
+    "agua":794,
+    "esgoto":794,
+    "tarifa":10.96
+  },
+  {
+    "id":198,
+    "nome":"UNIVERSO ONLINE S.A.",
+    "agua":793,
+    "esgoto":793,
+    "tarifa":10.96
+  },
+  {
+    "id":199,
+    "nome":"JARDINS VIAGENS E GOURMET LTDA",
+    "agua":786,
+    "esgoto":786,
+    "tarifa":10.96
+  },
+  {
+    "id":200,
+    "nome":"COND. ED. CHRYSLER",
+    "agua":783,
+    "esgoto":783,
+    "tarifa":10.32
+  },
+  {
+    "id":201,
+    "nome":"ADML SERVIÇOS MEDICOS S. C. LTDA",
+    "agua":766,
+    "esgoto":766,
+    "tarifa":10.96
+  },
+  {
+    "id":202,
+    "nome":"INST. PESQ.PROJ. EDUC.COMECINHO DE VIDA",
+    "agua":765,
+    "esgoto":765,
+    "tarifa":10.96
+  },
+  {
+    "id":203,
+    "nome":"COND. CONJ. ZARVOS",
+    "agua":761,
+    "esgoto":761,
+    "tarifa":10.96
+  },
+  {
+    "id":204,
+    "nome":"COND. ED. NEW ENGLAND",
+    "agua":759,
+    "esgoto":759,
+    "tarifa":10.96
+  },
+  {
+    "id":205,
+    "nome":"IBOPE PESQUISA DE MIDIA LTDA",
+    "agua":752,
+    "esgoto":752,
+    "tarifa":10.96
+  },
+  {
+    "id":206,
+    "nome":"STYRON DO BRASIL COMERCIO DE PRODUTOS QUIMICOS LTDA",
+    "agua":749,
+    "esgoto":749,
+    "tarifa":10.32
+  },
+  {
+    "id":207,
+    "nome":"ACCENTURE DO BRASIL LTDA",
+    "agua":746,
+    "esgoto":746,
+    "tarifa":10.96
+  },
+  {
+    "id":208,
+    "nome":"INDUSTRIA DE MALHAS FINAS HIGHSTIL LTDA",
+    "agua":742,
+    "esgoto":742,
+    "tarifa":10.96
+  },
+  {
+    "id":209,
+    "nome":"COND. ED. DELTA PLAZA",
+    "agua":742,
+    "esgoto":742,
+    "tarifa":10.96
+  },
+  {
+    "id":210,
+    "nome":"CLINICA SÃO JORGE SERV. NEFROLOGICOS LTDA",
+    "agua":738,
+    "esgoto":738,
+    "tarifa":10.96
+  },
+  {
+    "id":211,
+    "nome":"ED. QUADRA HUNGRIA",
+    "agua":737,
+    "esgoto":737,
+    "tarifa":10.96
+  },
+  {
+    "id":212,
+    "nome":"COND. ED. BIENAL FIRST CLASS FLAT SERVICE",
+    "agua":735,
+    "esgoto":735,
+    "tarifa":10.96
+  },
+  {
+    "id":213,
+    "nome":"COMPETITION SPORTS S.C.LTDA",
+    "agua":735,
+    "esgoto":735,
+    "tarifa":10.96
+  },
+  {
+    "id":214,
+    "nome":"COND. ED. DUMAS TOWER",
+    "agua":722,
+    "esgoto":722,
+    "tarifa":10.96
+  },
+  {
+    "id":215,
+    "nome":"REDECAR REDECORAÇÕES DE AUTOS LTDA",
+    "agua":720,
+    "esgoto":720,
+    "tarifa":10.32
+  },
+  {
+    "id":216,
+    "nome":"COND. ED. JOSE PAULINO NOGUEIRA",
+    "agua":717,
+    "esgoto":717,
+    "tarifa":10.96
+  },
+  {
+    "id":217,
+    "nome":"DAVISO IND. E COM. PROD. HIGIENICOS S.A.",
+    "agua":711,
+    "esgoto":711,
+    "tarifa":10.96
+  },
+  {
+    "id":218,
+    "nome":"CONDOMINIO EDIFICIO SHOPPING LOUSA",
+    "agua":710,
+    "esgoto":710,
+    "tarifa":10.96
+  },
+  {
+    "id":219,
+    "nome":"KHS INDUSTRIA DE MAQUINAS LTDA",
+    "agua":704,
+    "esgoto":704,
+    "tarifa":10.96
+  },
+  {
+    "id":220,
+    "nome":"COND. ED. CONTEMPORARY TOWER",
+    "agua":703,
+    "esgoto":703,
+    "tarifa":10.96
+  },
+  {
+    "id":221,
+    "nome":"ED. VILA OLIMPIA CORPORATE PLAZA",
+    "agua":698,
+    "esgoto":null,
+    "tarifa":10.96
+  },
+  {
+    "id":222,
+    "nome":"FUNDAÇÃO ESCOLA DE COMERCIO ALVARES PENTEADO-FECAP",
+    "agua":695,
+    "esgoto":null,
+    "tarifa":10.96
+  },
+  {
+    "id":223,
+    "nome":"SERASA S.A.",
+    "agua":693,
+    "esgoto":693,
+    "tarifa":10.96
+  },
+  {
+    "id":224,
+    "nome":"SEBRAE SP",
+    "agua":687,
+    "esgoto":687,
+    "tarifa":10.96
+  },
+  {
+    "id":225,
+    "nome":"GREIF",
+    "agua":682,
+    "esgoto":682,
+    "tarifa":10.32
+  },
+  {
+    "id":226,
+    "nome":"GLENMARK FARMACEUTICA LTDA",
+    "agua":680,
+    "esgoto":680,
+    "tarifa":10.96
+  },
+  {
+    "id":227,
+    "nome":"TOZZINI FREIRE TEIXEIRA E SILVA ADVOGADOS",
+    "agua":655,
+    "esgoto":655,
+    "tarifa":10.96
+  },
+  {
+    "id":228,
+    "nome":"RIO BRANCO COM. IND. PAPEIS LTDA",
+    "agua":654,
+    "esgoto":654,
+    "tarifa":10.96
+  },
+  {
+    "id":229,
+    "nome":"CETENE-CENTRO TERAPIA NEFROLOGICA LTDA",
+    "agua":643,
+    "esgoto":643,
+    "tarifa":10.96
+  },
+  {
+    "id":230,
+    "nome":"COND. ED. JOAQUIM FLORIANO",
+    "agua":637,
+    "esgoto":637,
+    "tarifa":10.96
+  },
+  {
+    "id":231,
+    "nome":"NEFROS -UNIDADE DE NEFROLOGIA E HIPERTENSÃO SOCIEDADE SIMPLES LTDA",
+    "agua":637,
+    "esgoto":637,
+    "tarifa":10.96
+  },
+  {
+    "id":232,
+    "nome":"M.L. GOMES ADVOGADOS ASSOCIADOS",
+    "agua":634,
+    "esgoto":634,
+    "tarifa":10.96
+  },
+  {
+    "id":233,
+    "nome":"COND. ED. DORNIER MERKUR",
+    "agua":633,
+    "esgoto":633,
+    "tarifa":10.96
+  },
+  {
+    "id":234,
+    "nome":"COND.ED.ITAQUERE",
+    "agua":632,
+    "esgoto":632,
+    "tarifa":10.96
+  },
+  {
+    "id":235,
+    "nome":"COND. ED.CBS",
+    "agua":628,
+    "esgoto":628,
+    "tarifa":10.96
+  },
+  {
+    "id":236,
+    "nome":"COND. SÃO PAULO TRADE BUILDING",
+    "agua":620,
+    "esgoto":620,
+    "tarifa":10.96
+  },
+  {
+    "id":237,
+    "nome":"COND. ED. BOLSA DE CEREAIS DE S.P.",
+    "agua":620,
+    "esgoto":620,
+    "tarifa":10.96
+  },
+  {
+    "id":238,
+    "nome":"ASSOCIAÇÃO COMERCIAL DE SÃO PAULO",
+    "agua":619,
+    "esgoto":619,
+    "tarifa":10.96
+  },
+  {
+    "id":239,
+    "nome":"SERVENG CIVILSAN EMPRESAS ASSOCIADAS DE ENGENHARIA",
+    "agua":615,
+    "esgoto":615,
+    "tarifa":10.96
+  },
+  {
+    "id":240,
+    "nome":"NEFROLESTE ITAIM",
+    "agua":614,
+    "esgoto":614,
+    "tarifa":10.96
+  },
+  {
+    "id":241,
+    "nome":"COND. ED. PLAZA I",
+    "agua":612,
+    "esgoto":612,
+    "tarifa":10.96
+  },
+  {
+    "id":242,
+    "nome":"ISCP-SOCIEDADE EDUCACIONAL S.A.",
+    "agua":611,
+    "esgoto":611,
+    "tarifa":10.96
+  },
+  {
+    "id":243,
+    "nome":"COND. ED. SAN PAOLO",
+    "agua":605,
+    "esgoto":605,
+    "tarifa":10.96
+  },
+  {
+    "id":244,
+    "nome":"C&A MODAS LTDA.",
+    "agua":603,
+    "esgoto":603,
+    "tarifa":10.32
+  },
+  {
+    "id":245,
+    "nome":"ZANETTINI BAROSSI S.A.INDUSTRIA E COMERCIO",
+    "agua":602,
+    "esgoto":602,
+    "tarifa":10.96
+  },
+  {
+    "id":246,
+    "nome":"COND. ESCRITORIOS EUROPA",
+    "agua":597,
+    "esgoto":597,
+    "tarifa":10.96
+  },
+  {
+    "id":247,
+    "nome":"ED. CAPITAL CENTER",
+    "agua":594,
+    "esgoto":null,
+    "tarifa":10.96
+  },
+  {
+    "id":248,
+    "nome":"COND. ED. ALIANÇA",
+    "agua":594,
+    "esgoto":594,
+    "tarifa":10.96
+  },
+  {
+    "id":249,
+    "nome":"COND. ED. PAULISTA DE SEGUROS IV",
+    "agua":590,
+    "esgoto":590,
+    "tarifa":10.96
+  },
+  {
+    "id":250,
+    "nome":"GRUPO FARTURA DE HORTIFRUTI LTDA",
+    "agua":586,
+    "esgoto":586,
+    "tarifa":10.96
+  },
+  {
+    "id":251,
+    "nome":"COND.ED.RIVER PARK",
+    "agua":586,
+    "esgoto":586,
+    "tarifa":10.96
+  },
+  {
+    "id":252,
+    "nome":"COND. ED. SANTA FILIPPA",
+    "agua":585,
+    "esgoto":585,
+    "tarifa":10.96
+  },
+  {
+    "id":253,
+    "nome":"COND. ED. NOVA BRASILIA",
+    "agua":577,
+    "esgoto":577,
+    "tarifa":10.96
+  },
+  {
+    "id":254,
+    "nome":"CLS SÃO PAULO",
+    "agua":577,
+    "esgoto":577,
+    "tarifa":10.96
+  },
+  {
+    "id":255,
+    "nome":"PILKINGTON BRASIL LTDA",
+    "agua":576,
+    "esgoto":576,
+    "tarifa":10.32
+  },
+  {
+    "id":256,
+    "nome":"COND. ED. FORTUNE OFFICE CENTER",
+    "agua":574,
+    "esgoto":574,
+    "tarifa":10.96
+  },
+  {
+    "id":257,
+    "nome":"COND. SOHO'S PLACE",
+    "agua":570,
+    "esgoto":570,
+    "tarifa":10.96
+  },
+  {
+    "id":258,
+    "nome":"COND. ED. PEKELMAN",
+    "agua":567,
+    "esgoto":567,
+    "tarifa":10.96
+  },
+  {
+    "id":259,
+    "nome":"COND. ED. BUSINESS CENTER",
+    "agua":565,
+    "esgoto":565,
+    "tarifa":10.96
+  },
+  {
+    "id":260,
+    "nome":"COND. ED. DALLAS E HOUSTON OFFICE CENTER",
+    "agua":557,
+    "esgoto":557,
+    "tarifa":10.96
+  },
+  {
+    "id":261,
+    "nome":"ED. COND.CRISTAL TOWER",
+    "agua":551,
+    "esgoto":551,
+    "tarifa":10.96
+  },
+  {
+    "id":262,
+    "nome":"COND. ED. MARIA JOSE",
+    "agua":549,
+    "esgoto":549,
+    "tarifa":10.96
+  },
+  {
+    "id":263,
+    "nome":"COND. ED. PATRIMONIO",
+    "agua":548,
+    "esgoto":548,
+    "tarifa":10.32
+  },
+  {
+    "id":264,
+    "nome":"CLUB TRANSATLANTICO",
+    "agua":544,
+    "esgoto":544,
+    "tarifa":10.96
+  },
+  {
+    "id":265,
+    "nome":"COND. ED. SUDAMERIS",
+    "agua":532,
+    "esgoto":532,
+    "tarifa":10.96
+  },
+  {
+    "id":266,
+    "nome":"MOBIBRASIL TRANSPORTE DIADEMA LTDA",
+    "agua":521,
+    "esgoto":521,
+    "tarifa":10.32
+  },
+  {
+    "id":267,
+    "nome":"COND. ED. CAMBUI",
+    "agua":518,
+    "esgoto":518,
+    "tarifa":10.96
+  },
+  {
+    "id":268,
+    "nome":"ANIS RAZUK IND. E COM. LTDA",
+    "agua":516,
+    "esgoto":516,
+    "tarifa":10.32
+  },
+  {
+    "id":269,
+    "nome":"LA FALCAO BAUER",
+    "agua":512,
+    "esgoto":512,
+    "tarifa":10.96
+  },
+  {
+    "id":270,
+    "nome":"GRUPO COMUNICAÇÃO TRES S.A.",
+    "agua":512,
+    "esgoto":512,
+    "tarifa":10.96
+  },
+  {
+    "id":271,
+    "nome":"DIMAS DE MELO PIMENTA SIST. PONTO E ACESSO LTDA",
+    "agua":507,
+    "esgoto":null,
+    "tarifa":10.96
+  },
+  {
+    "id":272,
+    "nome":"COND. EDIF. BURITY",
+    "agua":492,
+    "esgoto":492,
+    "tarifa":10.96
+  },
+  {
+    "id":273,
+    "nome":"COND. ED. RESULT CORPORATE PLAZA",
+    "agua":492,
+    "esgoto":492,
+    "tarifa":10.96
+  },
+  {
+    "id":274,
+    "nome":"SCOR SERVICOS ORGANIZAÇÃO E REGISTROS LTDA",
+    "agua":487,
+    "esgoto":487,
+    "tarifa":10.96
+  },
+  {
+    "id":275,
+    "nome":"COND. ED. EPURA",
+    "agua":485,
+    "esgoto":485,
+    "tarifa":10.96
+  },
+  {
+    "id":276,
+    "nome":"COLEGIO FRANCISCANO SÃO MIGUEL ARCANJO",
+    "agua":476,
+    "esgoto":476,
+    "tarifa":10.96
+  },
+  {
+    "id":277,
+    "nome":"NOFROLESTE SÃO MIGUEL",
+    "agua":470,
+    "esgoto":470,
+    "tarifa":10.96
+  },
+  {
+    "id":278,
+    "nome":"INSPETORIA SANTA CATARINA DE SENA",
+    "agua":468,
+    "esgoto":468,
+    "tarifa":10.96
+  },
+  {
+    "id":279,
+    "nome":"COMBUSTOL INDUSTRIA E COMERCIO LTDA",
+    "agua":464,
+    "esgoto":464,
+    "tarifa":10.96
+  },
+  {
+    "id":280,
+    "nome":"ELEVADORES ATLAS SCHINDLER S.A.",
+    "agua":458,
+    "esgoto":458,
+    "tarifa":10.96
+  },
+  {
+    "id":281,
+    "nome":"COND. ED. BARAO DE AGUA BRANCA",
+    "agua":450,
+    "esgoto":450,
+    "tarifa":10.96
+  },
+  {
+    "id":282,
+    "nome":"DAIHATSU",
+    "agua":445,
+    "esgoto":445,
+    "tarifa":10.96
+  },
+  {
+    "id":283,
+    "nome":"MIT2 COMERCIO DE VEICULOS LTDA",
+    "agua":441,
+    "esgoto":441,
+    "tarifa":10.96
+  },
+  {
+    "id":284,
+    "nome":"SUPERMERCADO BARONESALTDA",
+    "agua":436,
+    "esgoto":436,
+    "tarifa":10.96
+  },
+  {
+    "id":285,
+    "nome":"COMERCIAL ACLSEIRELI",
+    "agua":425,
+    "esgoto":425,
+    "tarifa":10.96
+  },
+  {
+    "id":286,
+    "nome":"NACCO MATERIAIS",
+    "agua":421,
+    "esgoto":421,
+    "tarifa":10.96
+  },
+  {
+    "id":287,
+    "nome":"GOMES E MIRANDEZ REST. LANCH PIZZ. E CONV. LTDA",
+    "agua":292,
+    "esgoto":292,
+    "tarifa":10.96
+  },
+  {
+    "id":288,
+    "nome":"COND. ED. PEDRA GRANDE",
+    "agua":273,
+    "esgoto":273,
+    "tarifa":10.96
+  },
+  {
+    "id":289,
+    "nome":"MORUMBI TOWN CENTER EMP IMOBILIARIOS LTDA",
+    "agua":249,
+    "esgoto":249,
+    "tarifa":10.96
+  },
+  {
+    "id":290,
+    "nome":"DATAPREV-EMPRESA TEC. E INF. DA PREV. SOCIAL",
+    "agua":237,
+    "esgoto":237,
+    "tarifa":10.96
+  },
+  {
+    "id":291,
+    "nome":"DIAS PASTORINHO S/A COMERCIO E INDUSTRIA",
+    "agua":234,
+    "esgoto":1.254,
+    "tarifa":10.32
+  },
+  {
+    "id":292,
+    "nome":"COND. ED. MIDAS",
+    "agua":168,
+    "esgoto":168,
+    "tarifa":10.96
+  },
+  {
+    "id":293,
+    "nome":"TINTURARIA TEXTIL BISELLI LTDA",
+    "agua":139,
+    "esgoto":139,
+    "tarifa":10.96
+  },
+  {
+    "id":294,
+    "nome":"CONCRESERV CONCRETO & SERVIÇOS LTDA",
+    "agua":12,
+    "esgoto":null,
+    "tarifa":10.32
+  }
+]
