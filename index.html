@@ -37,7 +37,7 @@
 
         function showDetail() {
           var client = clients[location.hash.substring(1)];
-          $('#data').html('detalhe<br><a href="#all">Todos</a>');
+          $('#data').html(JSON.stringify(client) + '<br><a href="#all">Todos</a>');
           console.log(client);
         };
 
