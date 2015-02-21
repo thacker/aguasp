@@ -27,17 +27,17 @@
 
         function showList() {
           var items = [];
-          clients = data;
-          $.each( data, function( key, val ) {
+          $.each(clients, function( key, val ) {
             if (val.agua) {
               items.push('<a href="#' + (val.id - 1) + '">' + val.nome + '</a><br>');
             }
           });
-          $('#data').append(items.join(''));
+          $('#data').html(items.join(''));
         }
 
         function showDetail() {
           var client = clients[location.hash.substring(1)];
+          $('#data').html('detalhe<br><a href="#all">Todos</a>');
           console.log(client);
         };
 
