@@ -38,13 +38,26 @@
 
         function showDetail() {
           var client = clients[location.hash.substring(1)];
-          $('#data').html(JSON.stringify(client) + '<br><a href="#all">Todos</a>');
+          $('#data').html('<br><a href="#all">Voltar</a>');
 
-          //CÓDIGO AQUI!!!
-
+           var nome_cliente_premium = client.nome;
+           var consumo_agua = client.agua;
+           var CONSUMO_POR_FAMILIA= 264;
+           var FIGURAS_POR_FAMILIA=10
+           var numero_de_familias = Math.trunc(consumo_agua/CONSUMO_POR_FAMILIA/FIGURAS_POR_FAMILIA);
+		   $("#familias").empty();
+		   $("#cliente_premium").html(nome_cliente_premium);
+           for (i = 0; i < numero_de_familias; i++) { 
+              $('#familias').append("<img src='./svg/family24.svg' />");
+           }
         };
 
       });
     </script>
+	
+	<h3 id="cliente_premium"></h3>
+    <div id="familias">	
+	</div>	
+	
   </body>
 </html>
