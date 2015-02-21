@@ -6,7 +6,6 @@
   </head>
   <body>
     <h1>Clientes Premium</h1>
-    <div id="data"></div>
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
     <script>
       $(function () {
@@ -34,21 +33,24 @@
             }
           });
           $('#data').html(items.join(''));
+		  $("#cliente_premium").empty();
+		  $("#familias").empty();
         }
 
         function showDetail() {
           var client = clients[location.hash.substring(1)];
-          $('#data').html('<br><a href="#all">Voltar</a>');
+         
 
            var nome_cliente_premium = client.nome;
            var consumo_agua = client.agua;
-           var CONSUMO_POR_FAMILIA= 264;
-           var FIGURAS_POR_FAMILIA=10
+           var CONSUMO_POR_FAMILIA= 15.64;
+           var FIGURAS_POR_FAMILIA=1;
            var numero_de_familias = Math.trunc(consumo_agua/CONSUMO_POR_FAMILIA/FIGURAS_POR_FAMILIA);
-		   $("#familias").empty();
 		   $("#cliente_premium").html(nome_cliente_premium);
+		   $('#data').html('<p><a href="#all">Voltar</a></p>');
            for (i = 0; i < numero_de_familias; i++) { 
-              $('#familias').append("<img src='./svg/family24.svg' />");
+              $('#familias').append("<img src='./svg/family24.svg' width='50' style='margin-right:5px;'/>");
+			  
            }
         };
 
@@ -56,7 +58,8 @@
     </script>
 	
 	<h3 id="cliente_premium"></h3>
-    <div id="familias">	
+	    <div id="data"></div>
+        <div id="familias">	
 	</div>	
 	
   </body>
