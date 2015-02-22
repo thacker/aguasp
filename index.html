@@ -3,9 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>Dados Água SP</title>
-
-<link rel="stylesheet" id="agua" href="agua.css" type="text/css" media="all">
-
   </head>
   <body>
     <h1>Clientes Premium</h1>
@@ -38,6 +35,7 @@
           $('#data').html(items.join(''));
 		  $("#cliente_premium").empty();
 		  $("#familias").empty();
+		  $("#dados_adicionais").empty();
         }
 
         function showDetail() {
@@ -49,7 +47,11 @@
            var CONSUMO_POR_FAMILIA= 15.64;
            var FIGURAS_POR_FAMILIA=1;
            var numero_de_familias = Math.trunc(consumo_agua/CONSUMO_POR_FAMILIA/FIGURAS_POR_FAMILIA);
-		   $("#cliente_premium").html(nome_cliente_premium);
+		   $("#cliente_premium").html("<p>Nome da Empresa: "+nome_cliente_premium+"</p>");
+           $("#dados_adicionais").html("<p>Foi considerado um consumo médio familiar de "+CONSUMO_POR_FAMILIA+
+		   "m³, cuja fonte pode ser encontrada <a href='http://brasil.elpais.com/brasil/2015/02/12/politica/1423765554_696443.html' target='blank'>aqui</a></p>"+
+		   "<p>Cada casa representa "+FIGURAS_POR_FAMILIA+" família(s)</p>"+
+		   "<p>Para a empresa em questão, seu consumo seria suficiente para abastecer "+ numero_de_familias+" famílias.");
 		   $('#data').html('<p><a href="#all">Voltar</a></p>');
            for (i = 0; i < numero_de_familias; i++) { 
               $('#familias').append("<img src='./svg/family24.svg' width='50' style='margin-right:5px;'/>");
@@ -61,9 +63,21 @@
     </script>
 	
 	<h3 id="cliente_premium"></h3>
-	    <div id="data"></div>
-        <div id="familias">	
+	
+	<div id="dados_adicionais">
+	
+	</div>
+	
+	<div id="data">
+	</div>
+     
+	
+	<div id="familias">	
 	</div>	
 	
+	<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> 
+	from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>    
+	is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 
+	title="Creative Commons BY 3.0">CC BY 3.0</a></div>
   </body>
 </html>
