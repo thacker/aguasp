@@ -46,7 +46,7 @@
            var FIGURAS_POR_FAMILIA=1;
            var numero_de_familias = Math.trunc(consumo_agua/CONSUMO_POR_FAMILIA/FIGURAS_POR_FAMILIA);
 		   $("#cliente_premium").html("<p>Nome da Empresa: "+nome_cliente_premium+"</p>");
-           $("#dados_adicionais").html("<p>O total consumido por esta empresa foi de :"+ client.agua+" m³ de água por mês.</p>"+
+           $("#dados_adicionais").html("<p>O total consumido por esta empresa foi de: "+ client.agua+" m³ de água por mês.</p>"+
 		   "<p>Esse consumo seria suficiente para abastecer "+ numero_de_familias+" famílias, ou seja, "+ numero_de_familias*4 +" pessoas. <p>No infográfico abaixo, cada casinha representa "+FIGURAS_POR_FAMILIA+" família (4 pessoas).</p>");
 		   $('#data').html('<p><a href="#all">Voltar</a></p>');
            for (i = 0; i < numero_de_familias; i++) { 
@@ -70,7 +70,7 @@
 	<div id="familias">	
 	</div>	
 	
-    <p><a href="quemfez.html">Método (considerações nos cálculos)</a></p>
+    <p><a href="metodo.html">Método (considerações nos cálculos)</a></p>
 	<p><a href="quemfez.html">Quem fez este aplicativo?</a></p>
     <p>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> 
 	from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>    
