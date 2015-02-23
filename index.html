@@ -39,9 +39,7 @@
         }
 
         function showDetail() {
-          var client = clients[location.hash.substring(1)];
-         
-
+           var client = clients[location.hash.substring(1)];
            var nome_cliente_premium = client.nome;
            var consumo_agua = client.agua;
            var CONSUMO_POR_FAMILIA= 15.64;
@@ -50,13 +48,12 @@
 		   $("#cliente_premium").html("<p>Nome da Empresa: "+nome_cliente_premium+"</p>");
            $("#dados_adicionais").html("<p>O total consumido por esta empresa foi de :"+ client.agua+" m³.</p>"+
 		   "<p>Foi considerado um consumo médio familiar mensal de "+CONSUMO_POR_FAMILIA+
-		   "m³, cuja fonte pode ser encontrada <a href='http://brasil.elpais.com/brasil/2015/02/12/politica/1423765554_696443.html' target='blank'>aqui</a></p>"+
-		   "<p>Cada casa representa "+FIGURAS_POR_FAMILIA+" família(s) de 4 pessoas.</p>"+
+		   "m³, cuja fonte pode ser encontrada <a href='http://brasil.elpais.com/brasil/2015/02/12/politica/1423765554_696443.html' target='blank'>aqui</a>.</p>"+
 		   "<p>Para a empresa em questão, seu consumo seria suficiente para abastecer "+ numero_de_familias+" famílias, ou seja, "+ numero_de_familias*4 +" pessoas.");
+		   "<p>No infográfico abaixo, cada casinha representa "+FIGURAS_POR_FAMILIA+" família (4 pessoas em média).</p>"+
 		   $('#data').html('<p><a href="#all">Voltar</a></p>');
            for (i = 0; i < numero_de_familias; i++) { 
               $('#familias').append("<img src='./svg/family24.svg' width='50' style='margin-right:5px;'/>");
-			  
            }
         };
 
@@ -76,7 +73,7 @@
 	<div id="familias">	
 	</div>	
 	
-	<p><a href="quemfez.html">Quem fez esse aplicativo?</a></p>
+	<p><a href="quemfez.html">Quem fez este aplicativo?</a></p>
     <p>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> 
 	from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>    
 	is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 
