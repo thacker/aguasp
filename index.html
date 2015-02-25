@@ -11,6 +11,7 @@
       $(function () {
 
         var clients;
+        var consumo_total_clientes_premium = 0;
 
         $.getJSON('data/clientesPremiumSabesp.json', function( data ) {
           clients = data;
@@ -30,6 +31,7 @@
           $.each(clients, function( key, val ) {
             if (val.agua) {
               items.push('<a href="#' + (val.id - 1) + '">' + val.nome + '</a><br>');
+              consumo_total_clientes_premium += val.agua;
             }
           });
           $('#data').html(items.join(''));
